@@ -15,9 +15,12 @@ Creating a deep learning model using convolutional neural network that predicts 
 ## Dataset
 
 The dataset is from mendeley data. The dataset was published  on 09-13-2018
-Multi-class weather dataset(MWD) for image classification is a valuable dataset used in the research paper entitled “Multi-class weather recognition from still image using heterogeneous ensemble method”. The dataset provides a platform for outdoor weather analysis by extracting various features for recognizing different weather conditions. 
+Multi-class weather dataset(MWD) for image classification is a valuable dataset used in the research paper entitled “Multi-class weather recognition from still image using heterogeneous ensemble method” [3]. The dataset provides a platform for outdoor weather analysis by extracting various features for recognizing different weather conditions. 
 The dataset is unstructured and it's divided into 4 classes: cloudy, shiny, sunrsise and rainy.
 
 Link to dataset website: https://data.mendeley.com/datasets/4drtyfjtfy/1
 
 Link to dataset: https://md-datasets-cache-zipfiles-prod.s3.eu-west-1.amazonaws.com/4drtyfjtfy-1.zip
+
+## References
+
