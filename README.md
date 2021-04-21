@@ -24,3 +24,10 @@ Link to dataset: https://md-datasets-cache-zipfiles-prod.s3.eu-west-1.amazonaws.
 
 ## References
 
+[1] Wikipedia. (2021, April 19). Weather. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/Weather
+
+[2] Dolce, C. (2018, 11 15). Weather-Related Vehicle Accidents Far More Deadly Than Tornadoes, Hurricanes, Floods. Retrieved from The Weather Channel: https://weather.com/safety/winter/news/weather-fatalities-car-crashes-accidents-united-states
+
+[3] Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.1
+
+
