@@ -7,7 +7,7 @@ Weather is the state of the atmosphere, describing for example the degree to whi
 
 ## Problem statements
 
-So many people die of weather disaters around the world each year. Bad weather is a very common cause of most road accidents. Such accidents occur in adverse conditions such as sleet, snow, rain, fog, wind or on slick pavement. Weather related accidents contributes to a higher number of deaths in the United States than large scale weather disasters, including tornadoes, hurricaness and flooding. The US Department of Transportation (DOT) said more than 5.8million vehicles crashes occur each yearbased on statistics from 2007 to 2016. About 21% of those or just  over 1.2million, involved hazardous  weather[2]. I want to build a deep learning classification system to predict the weather condition at a particlar time.
+So many people die of weather disasters around the world each year. Bad weather is a very common cause of most road accidents. Such accidents occur in adverse conditions such as sleet, snow, rain, fog, wind or on slick pavement. Weather related accidents contributes to a higher number of deaths in the United States than large scale weather disasters, including tornadoes, hurricaness and flooding. The US Department of Transportation (DOT) said more than 5.8million vehicles crashes occur each yearbased on statistics from 2007 to 2016. About 21% of those or just  over 1.2million, involved hazardous  weather[2]. I want to build a deep learning classification system to predict the weather condition at a particlar time.
 
 ## Project objective
 Creating a deep learning model using convolutional neural network that predicts the weather conditions of at any given time. CNN is mostly applied to visual images. I will make use of keras library.
